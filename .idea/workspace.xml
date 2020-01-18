@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="541ee457-63d2-4e8f-8371-f30afe26cf89" name="Default Changelist" comment="" />
+    <list default="true" id="541ee457-63d2-4e8f-8371-f30afe26cf89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.3/newfb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.3/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/str.php" beforeDir="false" afterPath="$PROJECT_DIR$/4/4.1-4.2/str.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/arr_bubble_sort.php" beforeDir="false" afterPath="$PROJECT_DIR$/6/arr_bubble_sort.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,19 +20,26 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VOlvMHEjAEwRavrjmCQApOdlqS" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/3/3.2" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3/3.2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4/4.3" />
+      <recent name="$PROJECT_DIR$/4/4.1-4.2" />
       <recent name="$PROJECT_DIR$/6" />
       <recent name="$PROJECT_DIR$/3/3.3" />
       <recent name="$PROJECT_DIR$/3/3.1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/3/3.2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,10 +70,24 @@
       <workItem from="1579116486035" duration="12062000" />
       <workItem from="1579204332297" duration="9825000" />
       <workItem from="1579283035105" duration="12505000" />
+      <workItem from="1579350923789" duration="379000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
